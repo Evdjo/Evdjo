@@ -1,1 +1,1 @@
-#### Hello, World 😄! This is Evelyn's profile. Enjoy!
+#### Hello, World! This is Evelyn's profile. Enjoy! 😉
