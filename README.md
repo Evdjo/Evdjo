@@ -1,5 +1,15 @@
-#### Hello, World! This is Evelyn's profile. Enjoy! 😉
-
-<div>
-  ![Snake Animation] (https://github.com/Evdjo/Evdjo/blob/519213d26341c5f7b0db5733e0f532f9f30edf37/.github/workflows/snakeanimation.yml)
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<div align="center">
+  <a href="https://github.com/Evdjo">
+  <div>  
+  <a href="https://www.linkedin.com/in/evelyn-joaquim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Evdjo/Evdjo/blob/output/github-contribution-grid-snake.svg)
+ 
+  </div>
 </div>
+
+
+
+
+
