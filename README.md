@@ -14,6 +14,8 @@ Also, I'm currently working with web development using Javascript, jQuery, PHP, 
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg>
+    <img height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg>
 </div>
     
 <div align="center"> 
