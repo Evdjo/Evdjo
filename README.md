@@ -1,6 +1,6 @@
 <h3 align="center">Hello, World!</h3>
 
-<h4>I'm a graduate student in System Analysis and Development. <br> 
+<h4>I'm a graduated student in System Analysis and Development. <br> 
 Also, I'm currently working with web development using Javascript, jQuery, PHP, HMTL, CSS, Bootstrap and PostgreSQL.
 </h4>
 <a href="https://www.linkedin.com/in/evelyn-joaquim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
